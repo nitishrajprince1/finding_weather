@@ -14,5 +14,5 @@ example
 we have to get weather of 'London' in 'XML' format
 
 
-from app import *
+from main import *
 get_weather('London','xml')
